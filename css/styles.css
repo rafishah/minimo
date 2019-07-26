@@ -149,7 +149,9 @@ header {
     padding: 10px 30px 10px 10px;
     background: transparent;
 }
-
+.newsletter_input input:focus{
+    outline: none;
+}
 .newsletter_input img {
     position: absolute;
     top: 10px;
